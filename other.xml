@@ -1,0 +1,46 @@
+<application>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/jira2/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/web_bb2/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/jira/jira/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/venv/web_bb/bin/python2.7" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/jira2/bin/python" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/web_bb2/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/jira/jira/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/venv/web_bb/bin/python2.7" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/web_bb2/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/venv/web_bb/bin/python2.7" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.bars-open.ru">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df92dfdadffbdff9dfcedfeddfc2dfee</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.0.2" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="status in (Оценка , Разработка, Ревью) AND project = БАРС.Бухгалтерия ORDER BY issue DESC " />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>s.istomin</username>
+    </JIRA>
+  </component>
+</application>
