@@ -202,6 +202,22 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\(\d\.\d*\)" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="4355681a-8818-4204-9989-aead51c00a11" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-393250" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="8cb6a3cb-599a-445a-b857-cb8cc28d35e4" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="SQL" />
