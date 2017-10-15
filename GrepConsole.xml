@@ -118,7 +118,6 @@
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*SELECT.*" />
                       <option name="id" value="e9256c83-1fb7-4bd7-a177-c0864e4691a1" />
-                      <option name="inputFilter" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
