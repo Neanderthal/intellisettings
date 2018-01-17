@@ -26,6 +26,14 @@
           <option name="url" value="https://s.istomin@stash.bars-open.ru/scm/budg/web_bb_accounting.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://s.istomin@stash.bars-open.ru/scm/budg/split_web_bb_food.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://s.istomin@stash.bars-open.ru/scm/budg/web_bb_food.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/splitted" />
