@@ -42,6 +42,14 @@
           <option name="url" value="https://s.istomin@stash.bars-open.ru/scm/budg/web_bb_splitter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.bars-open.ru:7999/budg/web_bb_accounting.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.bars-open.ru:7999/budg/web_bb_core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/splitted" />
