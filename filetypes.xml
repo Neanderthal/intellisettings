@@ -5,6 +5,7 @@
       <mapping pattern="REQUIREMENTS" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
