@@ -50,6 +50,10 @@
           <option name="url" value="ssh://git@stash.bars-open.ru:7999/budg/web_bb_core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Neanderthal/binance-trader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/splitted" />
