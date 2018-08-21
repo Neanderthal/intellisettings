@@ -3,38 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
-    <recentFileMasks>
-      <mask>act.py</mask>
-      <mask>actio.py</mask>
-      <mask>action.py\</mask>
-      <mask>action.py</mask>
-      <mask>actions.py</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.оы</mask>
-      <mask>*.о</mask>
-      <mask>*.js</mask>
-      <mask>*.jp</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*ю</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>ьщвуд.py</mask>
-      <mask>ьщвуды.py</mask>
-      <mask>ьщву.py</mask>
-      <mask>ьщв.py</mask>
-      <mask>ьщ.py</mask>
-      <mask>ь.py</mask>
-      <mask>mo.py</mask>
-      <mask>mod.py</mask>
-      <mask>mode.py</mask>
-      <mask>model.py</mask>
-      <mask>models.py</mask>
-      <mask>.py</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.js" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
