@@ -1,6 +1,9 @@
 <application>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="CommitDialog">
+        <PlaceSettings />
+      </entry>
       <entry key="Merge">
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
