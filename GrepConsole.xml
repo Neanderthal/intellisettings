@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="1" />
+        <option name="actionsExecuted" value="6" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
       </DonationNagger>
@@ -12,8 +12,13 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableMaxLengthLimit" value="false" />
+          <option name="filterOutBeforeGrep" value="true" />
           <option name="grepExpressionGroups">
             <list>
+              <GrepExpressionGroup>
+                <option name="enabled" value="true" />
+                <option name="name" value="web_bb" />
+              </GrepExpressionGroup>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
@@ -198,6 +203,12 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-14011334" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
                               <option name="color" value="-393250" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -208,10 +219,6 @@
                   </list>
                 </option>
                 <option name="name" value="SQL" />
-              </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="enabled" value="true" />
-                <option name="name" value="web_bb" />
               </GrepExpressionGroup>
             </list>
           </option>
@@ -226,6 +233,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*waterfall.*" />
                       <option name="inputFilter" value="true" />
                       <option name="style">
